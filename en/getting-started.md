@@ -22,4 +22,4 @@ Numeroo is a personal finance app that tracks your expenses and income — with 
 - 📂 **Budget** — budgets per category
 - ⚙️ **Settings** — account, assets, categories and preferences
 
-> Each section has its own guide — use the list below to learn more.
+> Each section has its own guide — use the guides list to learn more.

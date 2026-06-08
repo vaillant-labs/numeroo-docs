@@ -22,4 +22,4 @@ O Numeroo é uma aplicação de finanças pessoais que regista as tuas despesas 
 - 📂 **Orçamento** — orçamentos por categoria
 - ⚙️ **Configurações** — conta, ativos, categorias e preferências
 
-> Cada secção tem o seu próprio guia — usa a lista abaixo para saber mais.
+> Cada secção tem o seu próprio guia — usa a lista de guias para saber mais.
