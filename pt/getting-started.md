@@ -14,6 +14,8 @@ O Numeroo é uma aplicação de finanças pessoais que regista as tuas despesas 
 
 ## Como navegar
 
+![home](../assets/pt/getting-started/home.png)
+
 - 🏠 **Início** — visão geral das tuas finanças
 - 📊 **Estatísticas** — ritmo de despesa, tendências e gráficos
 - ⇄ **Botão central** — adicionar um registo ou digitalizar um recibo

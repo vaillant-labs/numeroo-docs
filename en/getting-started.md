@@ -14,6 +14,8 @@ Numeroo is a personal finance app that tracks your expenses and income — with 
 
 ## How to navigate
 
+![home](../assets/en/getting-started/home.png)
+
 - 🏠 **Home** — your financial overview at a glance
 - 📊 **Statistics** — spending pace, trends and charts
 - ⇄ **Center button** — add a transaction or scan a receipt
