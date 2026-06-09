@@ -17,6 +17,8 @@ Cada cartão de orçamento mostra:
 
 > Toca em qualquer cartão de orçamento para o editar.
 
+> Os orçamentos ativos também são visíveis no **ecrã inicial** como cartões deslizáveis, para os poderes monitorizar rapidamente sem abrir o separador de Orçamentos.
+
 ---
 
 ## Criar um orçamento

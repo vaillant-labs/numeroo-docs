@@ -17,6 +17,8 @@ Each budget card shows:
 
 > Tap any budget card to edit it.
 
+> Active budgets are also visible on the **Home screen** as swipeable cards, so you can monitor them at a glance without opening the Budgets tab.
+
 ---
 
 ## Create a budget
