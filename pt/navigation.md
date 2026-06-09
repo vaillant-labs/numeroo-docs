@@ -20,4 +20,5 @@
 - **Resumo de Despesa/Renda** — ao ver o mês atual, mostra os totais de hoje, esta semana e este ciclo. Para intervalos personalizados ou ciclos anteriores, mostra um único total para o período selecionado
 - **Cartões de orçamento** — cartões deslizáveis com despesa vs orçamento por categoria. Barra vermelha significa orçamento excedido ⚠️
 - **Top Categorias** — gráfico de barras das categorias com mais despesa. Toca em **Ver tudo** para a lista completa
+    >💡 Pressione qualquer barra no gráfico de **Top Categorias** para ver as estatísticas detalhadas de gastos dessa categoria.
 - **Últimos Registos** — os teus registos mais recentes. Toca em **Ver tudo** para ver tudo

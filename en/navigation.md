@@ -20,4 +20,5 @@
 - **Expense/Income summary** — when viewing the current month, shows today, this week, and this cycle totals. For custom date ranges or past cycles, shows a single total for the selected period
 - **Budget cards** — swipeable cards showing spending vs budget per category. Red bar means over budget ⚠️
 - **Top Categories** — bar chart of your biggest spending categories. Tap **View all** for the full list
+    >💡 Press any bar in the **Top Categories** chart to see detailed spending stats for that category.
 - **Latest Transactions** — your most recent records. Tap **View all** to see everything
