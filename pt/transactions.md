@@ -26,8 +26,6 @@ Um registo é uma entrada de dinheiro a sair (despesa) ou a entrar (renda). Cada
 
 > Desliza para a esquerda num item para o eliminar
 
-> Se ainda não tens ativos, toca em **+ Criar ativo** para criar um antes de guardar o registo. Consulta o guia [Ativos](#) para saber mais.
-
 ---
 
 ## Confirmar e definir a data
